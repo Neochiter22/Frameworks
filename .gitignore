@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+.env
+ПР1_Base_Python_кор.pdf
+PR1_Отчет_Евтенко.docx

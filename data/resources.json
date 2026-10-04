@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "provider_id": 1,
+    "name": "web-server",
+    "type": "virtual_machine"
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "provider_id": 2,
+    "name": "project-backups",
+    "type": "object_storage"
+  }
+]

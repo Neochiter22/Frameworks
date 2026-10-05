@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "resource_id": 1,
+    "amount": 1450.5,
+    "date": "2026-10-01"
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "resource_id": 2,
+    "amount": 320.0,
+    "date": "2026-10-02"
+  },
+  {
+    "id": 3,
+    "user_id": 2,
+    "resource_id": 3,
+    "amount": 25.0,
+    "date": "2026-10-05"
+  }
+]

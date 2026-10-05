@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pdf
+*.docx
+.venv/
+venv/
+.vscode/
+ПР3_Python_ООП.pdf
+PR3_Отчет_Евтенко.docx
